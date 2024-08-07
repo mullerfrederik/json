@@ -12,4 +12,4 @@ resp. pre zrusenie odstavky vo formate
 {"outageNotification":nil}
 ```
 
-Pripadne, mozes nastavit URL na subory `outage-on` alebo `outage-off`.
+Pripadne, mozes nastavit URL na subory `outage-on` alebo `outage-off`. Tymto sposobom nie je nutne nonstop menit subor `outage`, ale staci pouzivat `-on/-off` subor.
